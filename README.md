@@ -1,20 +1,20 @@
 # Smart Vehicle Control System (C++)
 
-A simple C++ project for simulating vehicle behavior, fuel usage, and safety alerts.
+A menu-driven console application for simulating vehicle behavior, fuel usage, and safety alerts.
 
 Features
 
 - Start/stop engine
 - Accelerate and brake
 - Refuel vehicle
-- Show current vehicle status
-- Warn for overspeed and low fuel
+- View vehicle status
+- Alert for overspeed and low fuel
 
 Files
 
 - `Vehicle.h` / `Vehicle.cpp` — vehicle state and actions
 - `AlertSystem.h` / `AlertSystem.cpp` — alert checking logic
-- `Main.cpp` — menu-driven program entry point
+- `Main.cpp` — menu-driven console entry point
 
 Build
 
@@ -28,4 +28,4 @@ Run
 output\Hello.exe
 ```
 
-This project is a small vehicle monitoring and alert system built using C++ and object-oriented programming.
+This project is a C++ object-oriented vehicle monitoring system that works through a command-line menu interface.
