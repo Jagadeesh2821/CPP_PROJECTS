@@ -1,0 +1,19 @@
+# Build artifacts
+output/
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+
+# Visual Studio files
+.vscode/
+*.vcxproj*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.swp
